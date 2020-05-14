@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Documents
+comment1.params=
+comment1.target=Documents()
+comment2.params=document
+comment2.target=void\ ajouter(Doc)
+comment3.params=
+comment3.target=void\ lister()
+comment4.params=
+comment4.target=void\ getMontantLivres()
+comment5.params=
+comment5.target=void\ getMontantDictionnaires()
+numComments=6

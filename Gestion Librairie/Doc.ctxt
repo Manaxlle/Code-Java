@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Doc
+comment1.params=name\ prix
+comment1.target=Doc(java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ getPrix()
+comment3.params=
+comment3.target=java.lang.String\ getTitre()
+comment4.params=
+comment4.target=java.lang.String\ affiche()
+numComments=5

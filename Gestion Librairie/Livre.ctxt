@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Livre
+comment1.params=name\ author\ nbr\ prix
+comment1.target=Livre(java.lang.String,\ java.lang.String,\ int,\ double)
+comment2.params=
+comment2.target=java.lang.String\ affiche()
+numComments=3
