@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Tableau
+comment1.params=t
+comment1.target=Tableau(int)
+comment2.params=
+comment2.target=void\ initTab()
+comment3.params=
+comment3.target=void\ affichePoint()
+comment4.params=
+comment4.target=void\ searchPositifs()
+numComments=5
